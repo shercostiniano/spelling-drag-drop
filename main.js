@@ -1,6 +1,14 @@
 // set up the list of words
 const threeLetterWords = [
   {
+    word: 'MEOW',
+    l1: 'M',
+    l2: 'E',
+    l3: 'O',
+    l4: 'W',
+    pic: 'images/cat.png'
+  },
+  {
     word: 'CAT',
     l1: 'C',
     l2: 'A',
